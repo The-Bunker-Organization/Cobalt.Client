@@ -995,7 +995,7 @@ local function fankshan()
 	end
 	print("\240\159\152\142 Passed the test with " .. SRATE .. "% success rate (" .. passedTests .. " out of " .. totalTests .. ")");
 	print("❌ Total tests failed: " .. (totalTests - passedTests));
-	print("\240\159\152\143 This test was made by senS (fuck all the inco pastes/unc fakers)");
+	print("\240\159\152\143 This test was made by senS originally,Edited by Sera (fuck all the inco pastes/unc fakers)");
 	local a = Soap - tick();
 	local next = tostring(a);
 	if (next:sub(1, 1) == "-") then
